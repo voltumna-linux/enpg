@@ -1,0 +1,2 @@
+MACHINE="sockit"
+nice bitbake -k enpg-sde || return
